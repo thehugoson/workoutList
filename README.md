@@ -15,7 +15,7 @@
 ### Overview
 
 1. Main Page
-<img width="1344" src="https://github.com/thehugoson/workoutList/assets/139826189/0a938f38-174b-45d8-aca1-a1df54f4ce7c.png">
+<img height="20" src="https://github.com/thehugoson/workoutList/assets/139826189/0a938f38-174b-45d8-aca1-a1df54f4ce7c.png">
 
 
 ![IMG_2060](https://github.com/thehugoson/workoutList/assets/139826189/0a938f38-174b-45d8-aca1-a1df54f4ce7c)
