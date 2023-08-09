@@ -34,10 +34,19 @@
 ![IMG_2067](https://github.com/thehugoson/workoutList/assets/139826189/fe59f05c-22c7-4aff-b6de-115028b5394e)
 
 - Once the button has been clicked, the modal pops up and asks for values of weight, repetitions, sets, and rest time
-4. asda
 
-6. asda
+![IMG_2068](https://github.com/thehugoson/workoutList/assets/139826189/fd395865-4760-47b1-9314-6562388cb229)
+![IMG_2069](https://github.com/thehugoson/workoutList/assets/139826189/fade69fe-e6ff-410d-bd81-15cde70090ff)
+- After saving the data, users can see the sub-category of each workout
 
-7. asda
 
-8. asd
+4. Decreasing a set
+![IMG_2070](https://github.com/thehugoson/workoutList/assets/139826189/5ede412e-2a2a-41fb-a17f-63ff1faa58b4)
+
+- When the "-" button is clicked, the sub-category blanks out for the set value of rest time
+
+![IMG_2085](https://github.com/thehugoson/workoutList/assets/139826189/45b11af6-e8da-49b5-a3df-52e2115f1c42)
+![IMG_2086](https://github.com/thehugoson/workoutList/assets/139826189/65fe6948-724b-44b5-b9cd-ca5cf26b8f7f)
+
+- Once the value of set reached 0 and the "-" button is clicked again, the workout is deleted
+
